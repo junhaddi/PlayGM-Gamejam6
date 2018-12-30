@@ -1,0 +1,1 @@
+chr_isDamage_delay = false;

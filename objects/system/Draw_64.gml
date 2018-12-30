@@ -1,0 +1,1 @@
+draw_text(GAME_WIDTH / 2, 60, string(game_score) + " FLOOR");
